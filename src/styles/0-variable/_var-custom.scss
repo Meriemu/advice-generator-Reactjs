@@ -1,0 +1,32 @@
+$ag_lightCyan: hsl(193, 38%, 86%);
+$ag_neonGreen: hsl(150, 100%, 66%);
+$ag_grayishBlue: hsl(217, 19%, 38%);
+$ag_darkGrayishBlue: hsl(217, 19%, 24%);
+$ag_darkBlue: hsl(218, 23%, 16%);
+
+//Font  family
+$ff-manrope: 'Manrope', sans-serif;
+
+// Font weight
+$fw-light:      300;
+$fw-regular:    400;
+$fw-medium:     500;
+$fw-semiBold:   600;
+$fw-bold:       700;
+$fw-extraBold:  800;
+$fw-black:      900;
+
+$typo-familles-weight: (
+    "light": $fw-light,
+    "regular": $fw-regular,
+    "medium": $fw-medium,
+    "semiBold": $fw-semiBold,
+    "bold": $fw-bold,
+    "extraBold": $fw-extraBold,
+    "black": $fw-black,
+);
+
+// Typo
+$h1-font-size-desktop: 2rem;
+
+$h1-font-size-mobile: 1.5rem;

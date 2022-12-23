@@ -1,0 +1,12 @@
+
+@import "~bootstrap/scss/bootstrap";
+
+@import './0-variable/var-custom';
+
+@import './4-structure/__index';
+
+@import './2-components/__index';
+
+body {
+    // background-color: rgb(65, 60, 60);
+}

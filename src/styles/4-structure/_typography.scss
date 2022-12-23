@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;800&display=swap');
+
+::-webkit-input-placeholder { color: var(--input-placeholder-color); font-style:italic; }
+:-moz-placeholder { color: var(--input-placeholder-color); font-style:italic; }
+::-moz-placeholder { color: var(--input-placeholder-color); opacity: 1; font-style:italic; }
+:-ms-input-placeholder { color: var(--input-placeholder-color); font-style:italic; }
+::-moz-selection {
+    color: var(--white);
+    // background-color: var(--body-color);
+}
+
+::selection {
+    color: var(--white);
+    // background-color: var(--body-color);
+}
+
+html {
+    font-size: 62.5%;
+
+    * {
+        font-family: $ff-manrope;
+    }
+}
+
+h1, .h1 {
+    font-size: $h1-font-size-mobile;
+    
+    @include media-breakpoint-up(lg) {
+        font-size: $h1-font-size-desktop;
+        font-weight: $fw-bold;
+    }
+}
+ 
