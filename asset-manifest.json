@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Test-case-LVMH/static/css/main.88c31cfc.css",
-    "main.js": "/Test-case-LVMH/static/js/main.0d8e3cd7.js",
-    "static/js/787.d13e3502.chunk.js": "/Test-case-LVMH/static/js/787.d13e3502.chunk.js",
-    "index.html": "/Test-case-LVMH/index.html",
-    "static/media/icon-dice.svg": "/Test-case-LVMH/static/media/icon-dice.08691e4c24c11b5ba564.svg",
-    "static/media/pattern-divider-desktop.svg": "/Test-case-LVMH/static/media/pattern-divider-desktop.ed9685263f6b47d21c88.svg",
-    "static/media/pattern-divider-mobile.svg": "/Test-case-LVMH/static/media/pattern-divider-mobile.aca38726412164df099c.svg",
-    "main.88c31cfc.css.map": "/Test-case-LVMH/static/css/main.88c31cfc.css.map",
-    "main.0d8e3cd7.js.map": "/Test-case-LVMH/static/js/main.0d8e3cd7.js.map",
-    "787.d13e3502.chunk.js.map": "/Test-case-LVMH/static/js/787.d13e3502.chunk.js.map"
+    "main.css": "/advice-generator-Reactjs/static/css/main.9909812b.css",
+    "main.js": "/advice-generator-Reactjs/static/js/main.c589e751.js",
+    "static/js/787.d13e3502.chunk.js": "/advice-generator-Reactjs/static/js/787.d13e3502.chunk.js",
+    "index.html": "/advice-generator-Reactjs/index.html",
+    "static/media/icon-dice.svg": "/advice-generator-Reactjs/static/media/icon-dice.08691e4c24c11b5ba564.svg",
+    "static/media/pattern-divider-desktop.svg": "/advice-generator-Reactjs/static/media/pattern-divider-desktop.ed9685263f6b47d21c88.svg",
+    "static/media/pattern-divider-mobile.svg": "/advice-generator-Reactjs/static/media/pattern-divider-mobile.aca38726412164df099c.svg",
+    "main.9909812b.css.map": "/advice-generator-Reactjs/static/css/main.9909812b.css.map",
+    "main.c589e751.js.map": "/advice-generator-Reactjs/static/js/main.c589e751.js.map",
+    "787.d13e3502.chunk.js.map": "/advice-generator-Reactjs/static/js/787.d13e3502.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88c31cfc.css",
-    "static/js/main.0d8e3cd7.js"
+    "static/css/main.9909812b.css",
+    "static/js/main.c589e751.js"
   ]
 }
