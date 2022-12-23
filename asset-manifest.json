@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Test-case-LVMH/static/css/main.88c31cfc.css",
+    "main.js": "/Test-case-LVMH/static/js/main.0d8e3cd7.js",
+    "static/js/787.d13e3502.chunk.js": "/Test-case-LVMH/static/js/787.d13e3502.chunk.js",
+    "index.html": "/Test-case-LVMH/index.html",
+    "static/media/icon-dice.svg": "/Test-case-LVMH/static/media/icon-dice.08691e4c24c11b5ba564.svg",
+    "static/media/pattern-divider-desktop.svg": "/Test-case-LVMH/static/media/pattern-divider-desktop.ed9685263f6b47d21c88.svg",
+    "static/media/pattern-divider-mobile.svg": "/Test-case-LVMH/static/media/pattern-divider-mobile.aca38726412164df099c.svg",
+    "main.88c31cfc.css.map": "/Test-case-LVMH/static/css/main.88c31cfc.css.map",
+    "main.0d8e3cd7.js.map": "/Test-case-LVMH/static/js/main.0d8e3cd7.js.map",
+    "787.d13e3502.chunk.js.map": "/Test-case-LVMH/static/js/787.d13e3502.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88c31cfc.css",
+    "static/js/main.0d8e3cd7.js"
+  ]
+}
